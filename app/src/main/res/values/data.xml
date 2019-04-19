@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="diet_original">
+        <item>1.0</item>
+        <item>1.0</item>
+        <item>1.0</item>
+        <item>1.0</item>
+        <item>1.0</item>
+        <item>1.0</item>
+        <item>1.0</item>
+    </array>
+
+    <array name="diet_meat_lover">
+        <item>0.25</item>
+        <item>0.5</item>
+        <item>0.8</item>
+        <item>1.0</item>
+        <item>1.0</item>
+        <item>1.5</item>
+        <item>2.0</item>
+    </array>
+
+    <array name="diet_low_meat">
+        <item>0.1</item>
+        <item>0.2</item>
+        <item>0.4</item>
+        <item>0.7</item>
+        <item>1.5</item>
+        <item>2.0</item>
+        <item>3.0</item>
+    </array>
+
+    <array name="diet_vegetarian">
+        <item>0.0</item>
+        <item>0.0</item>
+        <item>0.0</item>
+        <item>0.0</item>
+        <item>3.0</item>
+        <item>3.0</item>
+        <item>7.0</item>
+    </array>
+</resources>

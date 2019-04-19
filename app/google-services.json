@@ -1,0 +1,63 @@
+{
+  "project_info": {
+    "project_number": "900995547795",
+    "firebase_url": "https://greenfoodchallenge-221200.firebaseio.com",
+    "project_id": "greenfoodchallenge-221200",
+    "storage_bucket": "greenfoodchallenge-221200.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:900995547795:android:c1c4ec872c9f6d5a",
+        "android_client_info": {
+          "package_name": "com.bignerdranch.android.greenfoodchallenge"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "900995547795-a94fru3g6qchmk1a2dn8do5o4vovltll.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.bignerdranch.android.greenfoodchallenge",
+            "certificate_hash": "5e7925c00d0d9c034fe6c2695970418c6df33622"
+          }
+        },
+        {
+          "client_id": "900995547795-occk9n52lop8qjct8ilhaqgv0r6i6mk1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.bignerdranch.android.greenfoodchallenge",
+            "certificate_hash": "8d683808725cb69b2b2263bf42dea05180c831f1"
+          }
+        },
+        {
+          "client_id": "900995547795-7l8m2mf8tsj1mn52kuq30u95l0fv9qtb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRLdEyOfyRSb1RKwdjap7haBgPE0Rvvgo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "900995547795-7l8m2mf8tsj1mn52kuq30u95l0fv9qtb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

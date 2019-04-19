@@ -1,0 +1,243 @@
+<resources>
+    <string name="app_name">GreenFoodChallenge</string>
+    <string name="input_screen_next_button">Next</string>
+    <string name="input_screen_previous_button">Prev</string>
+    <string name="input_screen_home_button">Home</string>
+    <string name="input_screen_finish_button">Finish</string>
+    <string name="input_screen_results_button">Results</string>
+    <string name="splash_message">Welcome to the Green Food Challenge!
+        An app for YOU to make a difference.</string>
+    <string name="about_button">About</string>
+    <string name="calculator_button">Calculator</string>
+    <string name="app_description">The Green Food Challenge is an app designed to encourage users to reduce their greenhouse gas emissions by making dietary changes.</string>
+    <string name="app_what_to_do">Feel free to tap on calculator to get started or see the about page for more information.</string>
+    <string name="view_results">View Results</string>
+    <string name="button_calculator">Calculator</string>
+    <string name="button_results">Results</string>
+    <string name="button_about">About</string>
+    <string name="typically_i_eat_about">Typically, I eat about…</string>
+    <string name="of">of</string>
+    <string name="in_a_week">in a week!</string>
+    <string name="_0">0</string>
+
+    <string name="results_text_header">\ How can I help?</string>
+    <string name="skip">Skip</string>
+
+    <string name="tab_savings_1">With this plan, you\'ll save</string>
+    <string name="tab_savings_2">kilograms of CO2e per year, equivalent to the average passenger vehicle driving for</string>
+    <string name="tab_savings_3">kilometers, or </string>
+    <string name="tab_savings_4">tree seedlings grown for 10 years!</string>
+    <string name="tab_vancouver_1">If everyone in Metro Vancouver saved like you, then</string>
+    <string name="tab_vancouver_2">metric tons of CO2e would be saved per year, equivalent to the average passenger vehicle driving for</string>
+    <string name="tab_vancouver_3">kilometers, or </string>
+    <string name="tab_vancouver_4">tree seedlings grown for 10 years!</string>
+
+
+    <string-array name="spinner_options">
+        <item>serving(s)</item>
+        <item>gram(s)</item>
+        <item>ounce(s)</item>
+    </string-array>
+
+    <array name="input_screen_food_choices">
+        <item>Beef</item>
+        <item>Pork</item>
+        <item>Chicken</item>
+        <item>Fish</item>
+        <item>Eggs</item>
+        <item>Beans</item>
+        <item>Vegetables</item>
+    </array>
+
+    <string name="about_title_1">The Green Food Challenge?</string>
+    <string name="about_title_2">The Impact of Our Diet</string>
+    <string name="about_text_1">
+        The Green Food Challenge is an app that aims to help people reduce greenhouse gas emissions in Metro Vancouver
+        through making small yet powerful changes to their diet. \n\n Greenhouse gases are measured in CO2e
+        and are known to directly contribute to climate change. Since food production is a significant source of CO2e,
+        we can simply choose to consume foods that take less CO2e to produce than others… and our app hopes to help you with
+        exactly that!
+    </string>
+
+    <string name="about_text_2">
+        Greenhouse gas emissions are produced by growing, rearing, farming,
+        processing, transporting, storing, cooking, and disposing of the food you eat. As certain foods require
+        less to go from farm to fork, they produce less CO2e. <bold>For example, 40 grams of beef and 3.5 kilograms of apples
+        both produce 1 kilogram of CO2e.</bold>\n\n
+        If the 2.46 million people in Metro Vancouver switched from high to low CO2e producing foods, Vancouver would move closer to becoming
+        the greenest city in the world by 2020.
+    </string>
+    <string name="aboutBackButton">Back</string>
+    <string name="aboutHomeButton">Home</string>
+    <string name="aboutScreen2Button">What Else?</string>
+    <string name="text_calculator">Calculator</string>
+    <string name="text_current_emissions">Based on the diet you entered, your current emissions are:</string>
+    <string name="text_finish">Press finish to see ways you can try to reduce this!</string>
+    <string name="text_results_header">Results</string>
+    <string name="about">About</string>
+    <string name="about_image_1">About Image #1</string>
+    <string name="about_image_2">About Image #2</string>
+
+    <string name="menu_title_my_pledge">My Pledge</string>
+    <string name="button_text_make_pledge">Make a Pledge!</string>
+    <string name="textview_no_pledge">You haven\'t made a pledge!</string>
+
+    <string name="toolbar_title_my_pledge">My Pledge</string>
+    <string name="toolbar_title_about">About</string>
+    <string name="toolbar_title_calculator">Calculator</string>
+    <string name="toolbar_title_results">Results</string>
+    <string name="menu_title_logout">Logout</string>
+    <string name="content_dialog_permissions">Save to public database?</string>
+    <string name="title_dialog_pledge">Pledge Options</string>
+    <string name="content_dialog_pledge_1">With this pledge, you\'re saving</string>
+    <string name="content_dialog_pledge_2">kg of CO2e per year!</string>
+    <string name="positive_dialog_permissions">Yes</string>
+    <string name="negative_dialog_permissions">No</string>
+    <string name="neutral_dialog_permissions">Cancel</string>
+    <string name="positive_dialog_pledge">Save</string>
+    <string name="negative_dialog_pledge">Cancel</string>
+    <string name="checkbox_name_permission">Save name to database?</string>
+    <string name="textbox_municipality">Which municipality do you live in?</string>
+    <string name="textview_choose_icon">Choose an icon:</string>
+    <string name="textview_pledged_1">You\'ve pledged to save:</string>
+    <string name="textview_pledged_2">kg of CO2 per year!</string>
+    <string name="textview_equivalent_1">That\'s like not driving a car</string>
+    <string name="textview_equivalent_2">kilometers!</string>
+    <string name="textview_equivalent_3">saplings for 10 years!</string>
+    <string name="button_share_pledge">Share</string>
+    <string name="button_edit">Plan</string>
+    <string name="button_remove">Remove</string>
+    <string name="textview_totals_1">Total savings so far:</string>
+    <string name="textview_totals_2">Pledges so far:</string>
+
+
+    <string name="title_dialog_meal">New Meal</string>
+
+    <string name="neutral_dialog_meal">Cancel</string>
+
+    <string name="positive_dialog_meal">Done</string>
+
+    <string name="photo_options">Choose an option to upload a photo</string>
+    <string name="new_photo">Take a new photo</string>
+    <string name="photo_gallery">Already have a photo?</string>
+
+    <string name="question1">Chicken Parmesan vs. Eggplant Parmesan?</string>
+    <string name="option1a">Chicken Parmesan</string>
+    <string name="option1b">Eggplant Parmesan</string>
+
+    <string name="question2">Loaded Black Bean Nachos vs. Beef Chilli?</string>
+    <string name="option2a">Loaded Black Bean Nachos</string>
+    <string name="option2b">Beef Chilli</string>
+
+    <string name="question3">Scrambled Eggs vs. Baked Beans on Toast?</string>
+    <string name="option3a">Scrambled Eggs</string>
+    <string name="option3b">Baked Beans on Toast</string>
+
+    <string name="question4">Pulled Pork Sliders vs. Fish and Chips?</string>
+    <string name="option4a">Pulled Pork Sliders</string>
+    <string name="option4b">Fish and Chips</string>
+
+    <string name="question5">Seasonal Fruit and Yogurt vs. Lychee Ice Cream?</string>
+    <string name="option5a">Seasonal Fruit and Yogurt</string>
+    <string name="option5b">Lychee Ice Cream</string>
+
+    <string name="question6">White Chocolate vs. Milk Chocolate?</string>
+    <string name="option6a">White Chocolate Bar</string>
+    <string name="option6b">Milk Chocolate Bar</string>
+
+    <string name="question7">Chicken Tikka Masala vs. Lamb Curry?</string>
+    <string name="option7a">Chicken Tikka Masala</string>
+    <string name="option7b">Lamb Curry</string>
+
+    <string name="question8">Tofu Burger vs. Yam Tempura Sushi?</string>
+    <string name="option8a">Tofu Burger</string>
+    <string name="option8b">Yam Tempura Sushi</string>
+
+    <string name="introquiz">Here’s your chance to test your knowledge on which foods are low in carbon. Pick the food that you think has a lower carbon footprint:</string>
+    <string name="resultText1">You got </string>
+    <string name="resultText2"> out of 8 correct! Make planet-friendlier choices and pledge to reduce your carbon footprint today!</string>
+
+    <string-array name="spinner_municipality">
+        <item> </item>
+        <item>Other</item>
+        <item>Burnaby</item>
+        <item>Langley</item>
+        <item>Maple Ridge</item>
+        <item>New Westminster</item>
+        <item>North Vancouver</item>
+        <item>Tri-Cities</item>
+        <item>Richmond</item>
+        <item>Surrey</item>
+        <item>Vancouver</item>
+    </string-array>
+
+    <string-array name="spinner_proteins">
+        <item>N/A</item>
+        <item>All</item>
+        <item>Meat</item>
+        <item>Poultry</item>
+        <item>Fish</item>
+        <item>Pork</item>
+        <item>Milk</item>
+        <item>Egg</item>
+        <item>Soy</item>
+        <item>Other</item>
+    </string-array>
+
+    <string-array name="spinner_location">
+        <item>N/A</item>
+        <item>Burnaby</item>
+        <item>Langley</item>
+        <item>Maple Ridge</item>
+        <item>New Westminster</item>
+        <item>North Vancouver</item>
+        <item>Tri-Cities</item>
+        <item>Richmond</item>
+        <item>Surrey</item>
+        <item>Vancouver</item>
+        <item>Other</item>
+    </string-array>
+    <string name="title_activity_navigation_drawer">NavigationDrawerActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="nav_pledge">Pledge</string>
+    <string name="nav_meals">My Meals</string>
+    <string name="nav_browse">Browse</string>
+    <string name="nav_title_information">Information</string>
+    <string name="nav_about">About</string>
+    <string name="nav_account">Account</string>
+    <string name="nav_logout">Logout</string>
+    <string name="nav_quiz">Quiz</string>
+    <string name="toolbar_title_account">Account</string>
+    <string name="toolbar_title_browse">Browse</string>
+    <string name="toolbar_title_meals">My Meals</string>
+    <string name="nav_header_content_pic">Profile Picture</string>
+    <string name="nav_header_text_default">Anonymous</string>
+    <string name="text_account_permissions">Save Permissions</string>
+    <string name="text_account_remove">Remove All Data</string>
+    <string name="checkbox_account_personalinfo">Save my personal information</string>
+    <string name="toolbar_title_quiz">Quiz</string>
+    <string name="make_a_pledge">Make a pledge!</string>
+    <string name="reset">Reset</string>
+    <string name="content_card_vertical">Pledge Images</string>
+    <string name="this_is_your_weekly">This is your weekly diet! Try tapping on each food to explore its CO2e impact. Enter new values to see just how valuable simple changes to our diets can be!</string>
+
+    <string name="total_pledges_message">As of today, Metro Vancouver has pledged to save a total of %1$s kg of CO2e and counting!</string>
+    <string name="quiz_correct_answer_0">Eggplant Parmesan</string>
+    <string name="quiz_correct_answer_1">Loaded Black Bean Nachos</string>
+    <string name="quiz_correct_answer_2">Baked Beans on Toast</string>
+    <string name="quiz_correct_answer_3">Fish and Chips</string>
+    <string name="quiz_correct_answer_4">Seasonal Fruit and Yogurt</string>
+    <string name="quiz_correct_answer_5">Milk Chocolate Bar</string>
+    <string name="quiz_correct_answer_6">Chicken Tikka Masala</string>
+    <string name="quiz_correct_answer_7">Yam Tempura Sushi</string>
+    <string name="toast_incorrect">Oops, Incorrect!</string>
+    <string name="toast_correct">Correct!</string>
+    <string name="dialog_title_reset_data">Reset diet plan?</string>
+    <string name="dialog_message_reset_data">This will return your diet plan to what you originally entered into the calculator.</string>
+</resources>
+

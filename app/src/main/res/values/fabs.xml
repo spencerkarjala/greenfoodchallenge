@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="fab_meal_location" type="id" />
+    <item name="fab_protein" type="id" />
+    <item name="fab_popular" type="id" />
+    <item name="fab_pledge_location" type="id" />
+    <item name="fab_biggest" type="id" />
+</resources>
